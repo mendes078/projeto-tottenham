@@ -36,3 +36,90 @@ A análise foi estruturada a partir de seis perguntas principais:
 4. Quais posições geraram maior retorno financeiro ao clube?
 5. Existe um padrão de nacionalidades nas contratações realizadas pelo Tottenham Hotspur?
 6. Quais características definiram a estratégia do Tottenham Hotspur no mercado de transferências entre 2019/20 e 2024/25?
+
+## 📈 Principais resultados
+
+💰 **Resultado financeiro**
+
+- £553,2 milhões investidos
+
+- £179,8 milhões arrecadados
+
+- -£373,4 milhões de saldo
+
+Os dados sugerem uma postura predominantemente compradora durante o período.
+
+⚽ **Distribuição dos investimentos**
+
+Os investimentos foram distribuídos da seguinte maneira:
+
+- Meio-campistas: 38,7%
+- Atacantes: 36,2%
+- Defensores: 25,1%
+
+Meio-campistas e atacantes representaram, juntos, aproximadamente 74,9% do investimento total.
+
+👶 **Perfil etário**
+
+O perfil das contratações apresentou forte concentração em jogadores jovens:
+
+- 69% entre 21 e 25 anos;
+- 23% entre 26 e 30 anos;
+- 7% entre 16 e 20 anos;
+- aproximadamente 1% acima de 30 anos.
+
+Somando os jogadores entre 16 e 25 anos, aproximadamente 75% das contratações estavam concentradas nesse intervalo.
+
+💷 **Retorno financeiro por posição**
+
+Os atacantes concentraram a maior parte da receita obtida:
+
+- Atacantes: 70,2%
+- Meio-campistas: 22,5%
+- Defensores: 7,2%
+
+A saída de Harry Kane representou aproximadamente 52,8% de toda a receita obtida durante o período, com uma transferência de £95 milhões.
+
+🌍 **Diversidade das contratações**
+
+Foram identificadas:
+
+**13 nacionalidades entre 16 jogadores contratados**
+
+Não foi identificada uma concentração relevante em uma única nacionalidade.
+
+A Inglaterra apresentou três jogadores, enquanto os Países Baixos apresentaram dois. As demais nacionalidades apareceram individualmente.
+
+Esse resultado sugere uma estratégia de recrutamento distribuída entre diferentes mercados.
+
+## 📁 Estrutura do projeto
+
+projeto-tottenham/
+
+**dashboard/**
+
+dashboard-tottenham.png              (Imagem em .png do dashboard)
+
+dashboard-tottenham.pdf              (Arquivo .pdf contendo o dashboard)
+
+dashboard-tottenham.pbix             (Dashboard em formato .pbix do Power BI)
+
+**imagens/**
+
+tottenham_escudo.png                  (Escudo do Tottenham em formato .png)
+
+tottenham_estadio.jpg                 (Estádio do Tottenham em formato .jpg)
+
+**notebooks/**
+
+tottenham_transferencias.xlsx         (Planilha Excel Principal)
+
+**relatorio/**
+
+relatorio-tottenham.pdf               (Relatório sobre a análise em .pdf)
+
+## 👤 Autor
+
+**Kaike Mendes**
+
+Projeto desenvolvido para portfólio em Data Analytics e Business Intelligence, demonstrando competências em tratamento de dados, análise exploratória, modelagem, DAX, visualização e geração de insights.
